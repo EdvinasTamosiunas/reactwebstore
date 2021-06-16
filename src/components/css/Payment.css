@@ -1,0 +1,52 @@
+
+.button{
+    border: none;
+    outline: none;
+    background: #333;
+    color: white;
+    width: 100%;
+    height: 40px;
+    display: block;
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 15px 0;
+    position: fixed;
+    bottom: 0;
+    max-width: 850px
+}
+.cardinfo{
+    
+    margin: 25px 0;
+    bottom: -30px; 
+}
+.stripeSubmit{
+    margin: 25px 0;
+    border: none;
+    outline: none;
+    background: #333;
+    color: white;
+    width: 100%;
+    height: 40px;
+    display: block;
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.paypalbutton, .paywithcard {
+    width: 500px; 
+    
+}
+.paywithcard{
+    margin: 15px 0;
+    border: none;
+    outline: none;
+    background: #333;
+    color: white;
+    height: 50px;
+    display: block;
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
